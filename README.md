@@ -10,8 +10,12 @@ Um mini-jogo web simples inspirado no clássico Mario, desenvolvido para pratica
 
 ## 🛠️ Como Executar o Projeto
 
-1. Faça o clone deste repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` diretamente em qualquer navegador web.
+1. Execute o codigo ou faça o download deste repositório:
+   ```bash
+    https://github.io/tadslia/mario-cart-game
+   ```
+2. Navegue até a pasta: `mario-cart-game`
+3. Abra o arquivo `index.html` em qualquer navegador web de sua preferência.
 
 ## 📝 Próximos Passos (Em Desenvolvimento)
 
