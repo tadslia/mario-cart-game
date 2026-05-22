@@ -12,7 +12,7 @@ Um mini-jogo web simples inspirado no clássico Mario, desenvolvido para pratica
 
 1. Execute o codigo ou faça o download deste repositório:
    ```bash
-    https://github.io/mariliamezalheiradev/mario-cart-game
+    https://mariliamezalheiradev.github.io/mario-cart-game/
    ```
 2. Navegue até a pasta: `mario-cart-game`
 3. Abra o arquivo `index.html` em qualquer navegador web de sua preferência.
